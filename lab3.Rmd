@@ -1,0 +1,33 @@
+---
+title: "Lab 3"
+output: html_notebook
+---
+
+1. Find a dataset to work with on Kaggle or pick one of the suggested files included with the lab notebook. If finding your own, try to pick something that could be subjected to humanistic inquiry.
+
+2. Load the csv into R here.
+```{r}
+
+```
+
+3. Open the CSV or double click the dataframe in the environment window (to the right) to get a feel for the data. What are the columns and what kinds of values do they contain? Roughly how many entries are there? 
+
+4. Brainstorm a handful of calculations or questions you want to perform on or ask of this data. Don't limit yourself to what you know how to do in R here-- just ask yourself what you'd like to find out about these data.
+
+
+5. Now put at least one of those ideas into practice. Pick something from your list you feel you could do, or almost do, given your current knowledge.
+```{r}
+
+
+```
+
+6. Produce at least one table and one histogram from your data. Give them meaningful names
+```{r}
+
+```
+
+7. What insight do these visualizations give into your data? What can we see that we couldn't before? 
+
+
+
+8. Where would you go from here in your analysis?

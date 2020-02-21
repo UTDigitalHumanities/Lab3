@@ -1,0 +1,5 @@
+vgsales - https://www.kaggle.com/gregorut/videogamesales
+sloganlist - https://www.kaggle.com/chaibapat/slogan-dataset
+debate_transcripts - https://www.kaggle.com/brandenciranni/democratic-debate-transcripts-2020
+ks-projects-201801 - https://www.kaggle.com/kemical/kickstarter-projects
+game-of-thrones - https://www.kaggle.com/mylesoneill/game-of-thrones
